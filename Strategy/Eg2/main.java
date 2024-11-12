@@ -1,6 +1,6 @@
 package Strategy.Eg2;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         ThreeWheeler tw = new ElectricAuto();
         tw.vehicleName();

@@ -6,7 +6,6 @@ public class Cng implements IFuel {
 
     @Override
     public void fuel() {
-        // TODO Auto-generated method stub
         System.out.println("I use CNG.");
     }
     

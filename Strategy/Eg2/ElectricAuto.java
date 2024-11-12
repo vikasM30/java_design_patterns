@@ -11,7 +11,6 @@ public class ElectricAuto extends ThreeWheeler {
 
     @Override
     public void vehicleName() {
-        // TODO Auto-generated method stub
         System.out.println("Electric Auto.");
     }
 }

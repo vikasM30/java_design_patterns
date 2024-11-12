@@ -12,7 +12,7 @@ import Strategy.Eg1.BehaviorType.Fly.FlyWithWings;
     Program to interface, not implementations.
 */
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Duck model = new ModelDuck();
         model.display();

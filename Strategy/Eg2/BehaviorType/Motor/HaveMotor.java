@@ -6,7 +6,6 @@ public class HaveMotor implements IMotor{
 
     @Override
     public void motor() {
-        // TODO Auto-generated method stub
         System.out.println("I have motor.");
     }
 }
